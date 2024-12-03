@@ -1,0 +1,9 @@
+.vscode/
+Implementacion Java/Matrix Product
+**/target/
+**/test/
+Implementacion Python/__pycache__/
+Implementacion Python/Include/
+Implementacion Python/Lib/
+Implementacion Python/Scripts/
+Implementacion Python/pyvenv.cfg
