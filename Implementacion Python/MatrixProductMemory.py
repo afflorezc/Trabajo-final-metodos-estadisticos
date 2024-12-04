@@ -14,7 +14,7 @@ class MatrixProductMemory:
         np.matmul(self.matrixA, self.matrixB, self.matrixC)
         endTime = time.time()
         self.printFirstColumns()
-        print(f"Product completed in {endTime - startTime:.2f} segundos.")
+        print(f"Product completed in {endTime - startTime:.2f} seconds.")
 
     def matrixProduct(self):
         for i in range(self.matrixSize):
@@ -28,6 +28,6 @@ class MatrixProductMemory:
         print("Product completed. 10 first columns in first row: ")
         for i in range(10):
             if i < 9:
-                print(f"{self.matrixC[0][i]:.2f}", end =",")
+                print(f"{self.matrixC[0][i]:.2f}", end =", ")
             else:
                 print(f"{self.matrixC[0][i]:.2f}")
