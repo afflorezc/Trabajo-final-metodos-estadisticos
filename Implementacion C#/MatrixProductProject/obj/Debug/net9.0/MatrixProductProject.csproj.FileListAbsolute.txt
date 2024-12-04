@@ -1,0 +1,28 @@
+C:\Users\Usuario\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.exe
+C:\Users\Usuario\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.deps.json
+C:\Users\Usuario\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.runtimeconfig.json
+C:\Users\Usuario\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.dll
+C:\Users\Usuario\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.pdb
+C:\Users\Usuario\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.AssemblyInfoInputs.cache
+C:\Users\Usuario\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.AssemblyInfo.cs
+C:\Users\Usuario\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.dll
+C:\Users\Usuario\MatrixProductProject\obj\Debug\net9.0\refint\MatrixProductProject.dll
+C:\Users\Usuario\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.pdb
+C:\Users\Usuario\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.genruntimeconfig.cache
+C:\Users\Usuario\MatrixProductProject\obj\Debug\net9.0\ref\MatrixProductProject.dll
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.exe
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.deps.json
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.runtimeconfig.json
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.dll
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.pdb
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.dll
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\refint\MatrixProductProject.dll
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.pdb
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\ref\MatrixProductProject.dll
