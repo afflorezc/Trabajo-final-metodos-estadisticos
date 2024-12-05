@@ -8,10 +8,10 @@ public class MatrixProductMemory {
     
 	public static void inMemoryProduct(int matrixSize){
 
-        long startTime = System.nanoTime();
-
         DoubleMatrix matrixA = DoubleMatrix.rand(matrixSize, matrixSize);
         DoubleMatrix matrixB = DoubleMatrix.rand(matrixSize, matrixSize);
+        
+        long startTime = System.nanoTime();
         
         DoubleMatrix matrixC = matrixProduct(matrixA, matrixB);
 

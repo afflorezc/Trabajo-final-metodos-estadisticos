@@ -14,10 +14,11 @@ public class MatrixProductMultiprocessing {
 
     public static void multiprocessingProduct(int matrixSize){
 
-        long startTime = System.nanoTime();
-
         matrixA = DoubleMatrix.rand(matrixSize, matrixSize);
         matrixB = DoubleMatrix.rand(matrixSize, matrixSize);
+
+        long startTime = System.nanoTime();
+
         matrixC = new DoubleMatrix(matrixSize, matrixSize);
 
         ForkJoinPool pool = new ForkJoinPool();

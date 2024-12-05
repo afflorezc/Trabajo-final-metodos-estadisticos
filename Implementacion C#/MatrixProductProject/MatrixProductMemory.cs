@@ -8,11 +8,12 @@ namespace MatrixProductNamespace
         {
             // Permitir que OpenBLAS utilice un solo hilo
             MatrixProduct.openblas_set_num_threads(1);
+            
+            double[] matrixA = GenerateRandomMatrix(matrixSize, matrixSize);
+            double[] matrixB = GenerateRandomMatrix(matrixSize, matrixSize);
 
             long startTime = DateTime.Now.Ticks;
 
-            double[] matrixA = GenerateRandomMatrix(matrixSize, matrixSize);
-            double[] matrixB = GenerateRandomMatrix(matrixSize, matrixSize);
             double[] matrixC = new double[matrixSize * matrixSize];
 
             // Uso de OpenBLAS para multiplicar las matrices

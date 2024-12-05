@@ -8,24 +8,31 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\thomy\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\Implementacion C#\\MatrixProductProject\\MatrixProductProject.csproj",
+      "projectUniqueName": "C:\\Users\\thomy\\Downloads\\trabajo final metodos\\Trabajo-final-metodos-estadisticos\\Implementacion C#\\MatrixProductProject\\MatrixProductProject.csproj",
       "projectName": "MatrixProductProject",
-      "projectPath": "C:\\Users\\Usuario\\Downloads\\Implementacion C#\\MatrixProductProject\\MatrixProductProject.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Downloads\\Implementacion C#\\MatrixProductProject\\obj\\",
+      "projectPath": "C:\\Users\\thomy\\Downloads\\trabajo final metodos\\Trabajo-final-metodos-estadisticos\\Implementacion C#\\MatrixProductProject\\MatrixProductProject.csproj",
+      "packagesPath": "C:\\Users\\thomy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thomy\\Downloads\\trabajo final metodos\\Trabajo-final-metodos-estadisticos\\Implementacion C#\\MatrixProductProject\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\thomy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

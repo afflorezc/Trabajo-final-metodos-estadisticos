@@ -26,3 +26,18 @@ C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9
 C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.pdb
 C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.genruntimeconfig.cache
 C:\Users\Usuario\Downloads\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\ref\MatrixProductProject.dll
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.exe
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.deps.json
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.runtimeconfig.json
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.dll
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\bin\Debug\net9.0\MatrixProductProject.pdb
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.AssemblyInfoInputs.cache
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.AssemblyInfo.cs
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.csproj.CoreCompileInputs.cache
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.sourcelink.json
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.dll
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\refint\MatrixProductProject.dll
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.pdb
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\MatrixProductProject.genruntimeconfig.cache
+C:\Users\thomy\Downloads\trabajo final metodos\Trabajo-final-metodos-estadisticos\Implementacion C#\MatrixProductProject\obj\Debug\net9.0\ref\MatrixProductProject.dll

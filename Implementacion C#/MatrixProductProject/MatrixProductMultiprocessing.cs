@@ -10,10 +10,11 @@ namespace MatrixProductNamespace
             // Establecer el número de hilos de OpenBLAS
             MatrixProduct.openblas_set_num_threads(Environment.ProcessorCount);
 
-            long startTime = DateTime.Now.Ticks;
-
             double[] MatrixA = MatrixProductMemory.GenerateRandomMatrix(matrixSize, matrixSize);
             double[] MatrixB = MatrixProductMemory.GenerateRandomMatrix(matrixSize, matrixSize);
+
+            long startTime = DateTime.Now.Ticks;
+
             double[] MatrixC = new double[matrixSize * matrixSize];
 
             int numThreads = Environment.ProcessorCount;
